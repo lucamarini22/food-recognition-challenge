@@ -6,9 +6,9 @@ The food recognition challenge involves the building of a model to recognise and
 A report was written and submitted as part of the project. It may be viewed [here](https://github.com/lucamarini22/food-recognition-challenge/blob/main/res/report.pdf).
 
 ## Results
-The project has been included as a .ipynb file and can be viewed using the [Jupyter nbviewer link](https://nbviewer.jupyter.org/github/lucamarini22/food-recognition-challenge/blob/main/food-segmentation-model.ipynb) or via Jupyter notebook directly on a deskstop. 
+The project is included as a .ipynb file and can be viewed using the [Jupyter nbviewer link](https://nbviewer.jupyter.org/github/lucamarini22/food-recognition-challenge/blob/main/food-segmentation-model.ipynb) or via Jupyter notebook directly on a desktop. 
 
-Example images below show the original image, the true mask and the predicted mask of the model.
+Example images below show the original image, the true mask and the mask predicted by the model.
 
 ### Binary Image
 ![](https://github.com/lucamarini22/food-recognition-challenge/blob/main/res/images/binary.png)
