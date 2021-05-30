@@ -5,6 +5,15 @@ The food recognition challenge involves the building of a model to recognise and
 
 A report was written and submitted as part of the project. It may be viewed [here](https://github.com/lucamarini22/food-recognition-challenge/blob/main/res/report.pdf).
 
+### Dataset
+The dataset can be downloaded using the following [link](https://www.aicrowd.com/challenges/food-recognition-challenge/dataset_files).
+
+The dataset consists of:
+
+- train-v0.4.tar.gz : 24120 RGB images, with their corresponding 39328 annotations in MS-COCO format.
+- val-v0.4.tar.gz : 1269 RGB images, with their corresponding 2053 annotations in MS-COCO format.
+- test_images-v0.4.tar.gz : A debug dataset for Round-3. Its images are the same as those of the validation set.
+
 ## Results
 The project is included as a .ipynb file and can be viewed using the [Jupyter nbviewer link](https://nbviewer.jupyter.org/github/lucamarini22/food-recognition-challenge/blob/main/food-segmentation-model.ipynb) or via Jupyter notebook directly on a desktop. 
 
