@@ -1,9 +1,9 @@
 # Food Recognition Challenge (Semantic Segmentation)
 
-### Overview
+## Overview
 The food recognition challenge involves the building of a model to recognise and segment food items in each image. There are 273 categories of food items and each image may be a binary or multiclass image. More information on the challenge can be found on the [official website](https://www.aicrowd.com/challenges/food-recognition-challenge).
 
-A report was written and submitted as part of the project. It may be viewed [here](https://github.com/lucamarini22/food-recognition-challenge/blob/main/res/report.pdf).
+A report was written and submitted as part of the project and may be viewed [here](https://github.com/lucamarini22/food-recognition-challenge/blob/main/res/report.pdf).
 
 ### Dataset
 The dataset can be downloaded using the following [link](https://www.aicrowd.com/challenges/food-recognition-challenge/dataset_files).
