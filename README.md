@@ -20,8 +20,11 @@ The project is included as a .ipynb file and can be viewed using the [Jupyter nb
 Example images below show the original image, the true mask and the mask predicted by the model.
 
 ### Binary Image
-![](https://github.com/lucamarini22/food-recognition-challenge/blob/main/res/images/binary.png)
+![](https://github.com/lucamarini22/food-recognition-challenge/blob/main/res/images/binary_1.png)
+![](https://github.com/lucamarini22/food-recognition-challenge/blob/main/res/images/binary_2.png)
+![](https://github.com/lucamarini22/food-recognition-challenge/blob/main/res/images/binary_3.png)
 
 ### Multiclass Image
-![](https://github.com/lucamarini22/food-recognition-challenge/blob/main/res/images/multi.png)
-
+![](https://github.com/lucamarini22/food-recognition-challenge/blob/main/res/images/multi_1.png)
+![](https://github.com/lucamarini22/food-recognition-challenge/blob/main/res/images/multi_2.png)
+![](https://github.com/lucamarini22/food-recognition-challenge/blob/main/res/images/multi_3.png)
