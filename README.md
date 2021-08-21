@@ -5,7 +5,7 @@ The food recognition challenge involves the building of a model to recognise and
 
 A report was written and submitted as part of the project and may be viewed [here](https://github.com/lucamarini22/food-recognition-challenge/blob/main/results/report.pdf).
 
-### Dataset
+## Dataset
 The dataset can be downloaded using the following [link](https://www.aicrowd.com/challenges/food-recognition-challenge/dataset_files).
 
 The dataset consists of:
