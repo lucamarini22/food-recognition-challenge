@@ -1,7 +1,7 @@
-# Deep Learning Project (Food Recognition Challenge)
+# Food Recognition Challenge
 
 ## Overview
-The food recognition challenge involves the building of a model to recognise and segment food items in each image. There are 273 categories of food items and each image may be a binary or multiclass image. More information on the challenge can be found on the [official website](https://www.aicrowd.com/challenges/food-recognition-challenge).
+The University of Bologna (UniBo) Deep Learning (DL) project. The food recognition challenge involves the building of a model to recognise and segment food items in each image. There are 273 categories of food items and each image may be a binary or multiclass image. More information on the challenge can be found on the [official website](https://www.aicrowd.com/challenges/food-recognition-challenge).
 
 The dataset used can be downloaded using the following [link](https://www.aicrowd.com/challenges/food-recognition-challenge/dataset_files) and consists of:
 
